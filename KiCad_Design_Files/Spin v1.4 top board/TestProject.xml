@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\nicho\Documents\KiCad\Projects\Spin_v1.4\TestProject.sch</source>
+    <date>3/22/2020 4:39:51 PM</date>
+    <tool>Eeschema (5.1.4)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>TestProject.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="K1">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_optional</footprint>
+      <libsource lib="TestProject-rescue" part="KEYSW-keyboard_parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6EB0EB</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6F01AE</tstamp>
+    </comp>
+    <comp ref="K12">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_optional</footprint>
+      <libsource lib="TestProject-rescue" part="KEYSW-keyboard_parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D73E8E6</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D73E8FA</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>Rotary_Encoder_Switch</value>
+      <footprint>User Components:RotaryEncoder_Bourns_PEC12R_Horizontal_12mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Rotary_Encoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D79C906</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>Rotary_Encoder_Switch</value>
+      <footprint>User Components:RotaryEncoder_Bourns_PEC12R_Horizontal_12mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Rotary_Encoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6E7DB0</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>Rotary_Encoder_Switch</value>
+      <footprint>User Components:RotaryEncoder_Bourns_PEC12R_Horizontal_12mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Rotary_Encoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6E8F25</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D726453</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D72643F</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D73E8F0</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D726449</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D73E8C8</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6F1892</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D73E8BE</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6F0FDA</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6F13D2</tstamp>
+    </comp>
+    <comp ref="K11">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_optional</footprint>
+      <libsource lib="TestProject-rescue" part="KEYSW-keyboard_parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D72642B</tstamp>
+    </comp>
+    <comp ref="K10">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_optional</footprint>
+      <libsource lib="TestProject-rescue" part="KEYSW-keyboard_parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D726417</tstamp>
+    </comp>
+    <comp ref="K9">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_optional</footprint>
+      <libsource lib="TestProject-rescue" part="KEYSW-keyboard_parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D73E8DC</tstamp>
+    </comp>
+    <comp ref="K8">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_optional</footprint>
+      <libsource lib="TestProject-rescue" part="KEYSW-keyboard_parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D726421</tstamp>
+    </comp>
+    <comp ref="K7">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_optional</footprint>
+      <libsource lib="TestProject-rescue" part="KEYSW-keyboard_parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D72640D</tstamp>
+    </comp>
+    <comp ref="K6">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_optional</footprint>
+      <libsource lib="TestProject-rescue" part="KEYSW-keyboard_parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D73E8B4</tstamp>
+    </comp>
+    <comp ref="K5">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_optional</footprint>
+      <libsource lib="TestProject-rescue" part="KEYSW-keyboard_parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6EFABB</tstamp>
+    </comp>
+    <comp ref="K4">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_optional</footprint>
+      <libsource lib="TestProject-rescue" part="KEYSW-keyboard_parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6EE6CF</tstamp>
+    </comp>
+    <comp ref="K3">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_optional</footprint>
+      <libsource lib="TestProject-rescue" part="KEYSW-keyboard_parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D73E8AA</tstamp>
+    </comp>
+    <comp ref="K2">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_optional</footprint>
+      <libsource lib="TestProject-rescue" part="KEYSW-keyboard_parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6EF5B0</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D726435</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>ATMEGA32U4</value>
+      <footprint>Package_QFP:TQFP-44_10x10mm_P0.8mm</footprint>
+      <libsource lib="TestProject-rescue" part="ATMEGA32U4-keyboard_parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D69E9FB</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6C95D4</tstamp>
+    </comp>
+    <comp ref="X1">
+      <value>XTAL_GND</value>
+      <footprint>User Components:Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5_mm_fixed</footprint>
+      <libsource lib="TestProject-rescue" part="XTAL_GND-keyboard_parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6A3EC4</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6D6A25</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>22</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6D3C62</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>22</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6D3347</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6CD673</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_PUSH</value>
+      <footprint>Button_Switch_SMD:SW_SPST_EVQP7C</footprint>
+      <libsource lib="TestProject-rescue" part="SW_PUSH-keyboard_parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6C845A</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6A6ABA</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6A5B6C</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_01x01</value>
+      <footprint>User Components:PinSocket_1x01_P2.54mm_Vertical_modified</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E50704D</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_01x01</value>
+      <footprint>User Components:PinSocket_1x01_P2.54mm_Vertical_modified</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E506C2C</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x01</value>
+      <footprint>User Components:PinSocket_1x01_P2.54mm_Vertical_modified</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4A6B25</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x01</value>
+      <footprint>User Components:PinSocket_1x01_P2.54mm_Vertical_modified</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4A69AB</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x01</value>
+      <footprint>User Components:PinSocket_1x01_P2.54mm_Vertical_modified</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4A6606</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x01</value>
+      <footprint>User Components:PinSocket_1x01_P2.54mm_Vertical_modified</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4A6481</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x01</value>
+      <footprint>User Components:PinSocket_1x01_P2.54mm_Vertical_modified</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4A6171</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x01</value>
+      <footprint>User Components:PinSocket_1x01_P2.54mm_Vertical_modified</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4A5FA3</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x01</value>
+      <footprint>User Components:PinSocket_1x01_P2.54mm_Vertical_modified</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4A54EE</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>board2_RGB</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DCF9A70</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6B5FF3</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6B5CD0</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6B5949</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6B529C</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6B376A</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E615D65</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E616329</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E615355</tstamp>
+    </comp>
+    <comp ref="J12">
+      <value>Conn_01x01</value>
+      <footprint>User Components:PinSocket_1x01_P2.54mm_Vertical_modified</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E66190A</tstamp>
+    </comp>
+    <comp ref="J13">
+      <value>Conn_01x01</value>
+      <footprint>User Components:PinSocket_1x01_P2.54mm_Vertical_modified</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E661FFB</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_Receptacle_USB2.0</value>
+      <footprint>Connector_USB:USB_C_Receptacle_Palconn_UTC16-G</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E6F6102</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>5.1k</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E767FCD</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>5.1k</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E76861A</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0">
+      <description>USB 2.0-only Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="power_in"/>
+        <pin num="A4" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC1" type="BiDi"/>
+        <pin num="A6" name="D+" type="BiDi"/>
+        <pin num="A7" name="D-" type="BiDi"/>
+        <pin num="A8" name="SBU1" type="BiDi"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="BiDi"/>
+        <pin num="B6" name="D+" type="BiDi"/>
+        <pin num="B7" name="D-" type="BiDi"/>
+        <pin num="B8" name="SBU2" type="BiDi"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Rotary_Encoder_Switch">
+      <description>Rotary encoder, dual channel, incremental quadrate outputs, with switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>RotaryEncoder*Switch*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Rotary_Encoder_Switch</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="B" name="B" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+        <pin num="S1" name="S1" type="passive"/>
+        <pin num="S2" name="S2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TestProject-rescue" part="ATMEGA32U4-keyboard_parts">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATMEGA32U4-keyboard_parts</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE6/AIN0" type="BiDi"/>
+        <pin num="2" name="UVcc" type="power_in"/>
+        <pin num="3" name="D-" type="BiDi"/>
+        <pin num="4" name="D+" type="BiDi"/>
+        <pin num="5" name="UGnd" type="power_in"/>
+        <pin num="6" name="UCap" type="input"/>
+        <pin num="7" name="VBus" type="input"/>
+        <pin num="8" name="PB0/SS" type="BiDi"/>
+        <pin num="9" name="PB1/SCK" type="BiDi"/>
+        <pin num="10" name="PB2/MOSI" type="BiDi"/>
+        <pin num="11" name="PB3/MISO" type="BiDi"/>
+        <pin num="12" name="PB7/~RTS" type="BiDi"/>
+        <pin num="13" name="~RESET" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="XTAL1" type="input"/>
+        <pin num="17" name="XTAL2" type="output"/>
+        <pin num="18" name="PD0/INT0" type="BiDi"/>
+        <pin num="19" name="PD1/INT1" type="BiDi"/>
+        <pin num="20" name="PD2/RXD1" type="BiDi"/>
+        <pin num="21" name="PD3/TXD1" type="BiDi"/>
+        <pin num="22" name="PD5/XCK1" type="BiDi"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="AVCC" type="power_in"/>
+        <pin num="25" name="ICP1/PD4" type="BiDi"/>
+        <pin num="26" name="T1/PD6" type="BiDi"/>
+        <pin num="27" name="T0/PD7" type="BiDi"/>
+        <pin num="28" name="PB4" type="BiDi"/>
+        <pin num="29" name="PB5" type="BiDi"/>
+        <pin num="30" name="PB6" type="BiDi"/>
+        <pin num="31" name="PC6" type="BiDi"/>
+        <pin num="32" name="PC7" type="BiDi"/>
+        <pin num="33" name="~HWB/PE2" type="BiDi"/>
+        <pin num="34" name="VCC" type="power_in"/>
+        <pin num="35" name="GND" type="power_in"/>
+        <pin num="36" name="PF7" type="BiDi"/>
+        <pin num="37" name="PF6" type="BiDi"/>
+        <pin num="38" name="PF5" type="BiDi"/>
+        <pin num="39" name="PF4" type="BiDi"/>
+        <pin num="40" name="PF1" type="BiDi"/>
+        <pin num="41" name="PF0" type="BiDi"/>
+        <pin num="42" name="AREF" type="input"/>
+        <pin num="43" name="GND" type="power_in"/>
+        <pin num="44" name="AVCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TestProject-rescue" part="KEYSW-keyboard_parts">
+      <fields>
+        <field name="Reference">K?</field>
+        <field name="Value">KEYSW-keyboard_parts</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TestProject-rescue" part="SW_PUSH-keyboard_parts">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH-keyboard_parts</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TestProject-rescue" part="XTAL_GND-keyboard_parts">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">XTAL_GND-keyboard_parts</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="TestProject-rescue">
+      <uri>C:\Users\nicho\Documents\KiCad\Projects\Spin_v1.4/TestProject-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1"/>
+      <node ref="X1" pin="1"/>
+      <node ref="U1" pin="16"/>
+    </net>
+    <net code="2" name="VCC">
+      <node ref="U1" pin="14"/>
+      <node ref="U1" pin="7"/>
+      <node ref="J8" pin="1"/>
+      <node ref="J1" pin="A4"/>
+      <node ref="J1" pin="B4"/>
+      <node ref="J1" pin="B9"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="C7" pin="1"/>
+      <node ref="J1" pin="A9"/>
+      <node ref="J2" pin="3"/>
+      <node ref="U1" pin="24"/>
+      <node ref="U1" pin="44"/>
+      <node ref="U1" pin="34"/>
+      <node ref="C3" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="R1" pin="2"/>
+      <node ref="J10" pin="1"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C5" pin="2"/>
+      <node ref="U1" pin="23"/>
+      <node ref="R6" pin="1"/>
+      <node ref="R5" pin="1"/>
+      <node ref="SW4" pin="C"/>
+      <node ref="J1" pin="A12"/>
+      <node ref="J1" pin="A1"/>
+      <node ref="U1" pin="43"/>
+      <node ref="U1" pin="35"/>
+      <node ref="SW3" pin="C"/>
+      <node ref="C3" pin="2"/>
+      <node ref="U1" pin="5"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="SW2" pin="C"/>
+      <node ref="J2" pin="1"/>
+      <node ref="J9" pin="1"/>
+      <node ref="C8" pin="2"/>
+      <node ref="X1" pin="3"/>
+      <node ref="U1" pin="15"/>
+      <node ref="R2" pin="1"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="J11" pin="1"/>
+      <node ref="J1" pin="B1"/>
+      <node ref="J1" pin="B12"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="J1" pin="S1"/>
+    </net>
+    <net code="4" name="Net-(C2-Pad1)">
+      <node ref="U1" pin="17"/>
+      <node ref="X1" pin="2"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="5" name="/PB0_RXLED">
+      <node ref="U1" pin="8"/>
+      <node ref="J3" pin="1"/>
+    </net>
+    <net code="6" name="/LED_DATA">
+      <node ref="U1" pin="21"/>
+      <node ref="J2" pin="2"/>
+    </net>
+    <net code="7" name="/PD5_TXLED">
+      <node ref="U1" pin="22"/>
+      <node ref="J4" pin="1"/>
+    </net>
+    <net code="8" name="/PD2_IO">
+      <node ref="J5" pin="1"/>
+      <node ref="U1" pin="20"/>
+    </net>
+    <net code="9" name="/PD1_SDA_IO">
+      <node ref="U1" pin="19"/>
+      <node ref="J6" pin="1"/>
+    </net>
+    <net code="10" name="/PD0_SCL_PWM">
+      <node ref="U1" pin="18"/>
+      <node ref="J7" pin="1"/>
+    </net>
+    <net code="11" name="Net-(U1-Pad42)">
+      <node ref="U1" pin="42"/>
+    </net>
+    <net code="12" name="/RST">
+      <node ref="U1" pin="13"/>
+      <node ref="R1" pin="1"/>
+      <node ref="SW1" pin="2"/>
+    </net>
+    <net code="13" name="Net-(C8-Pad1)">
+      <node ref="U1" pin="6"/>
+      <node ref="C8" pin="1"/>
+    </net>
+    <net code="14" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2"/>
+      <node ref="U1" pin="33"/>
+    </net>
+    <net code="15" name="Net-(R3-Pad1)">
+      <node ref="U1" pin="3"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="16" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1"/>
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="17" name="Net-(J1-PadA8)">
+      <node ref="J1" pin="A8"/>
+    </net>
+    <net code="18" name="Net-(J1-PadB8)">
+      <node ref="J1" pin="B8"/>
+    </net>
+    <net code="19" name="Net-(J1-PadA6)">
+      <node ref="J1" pin="B6"/>
+      <node ref="J1" pin="A6"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="20" name="Net-(J1-PadA7)">
+      <node ref="J1" pin="B7"/>
+      <node ref="R3" pin="2"/>
+      <node ref="J1" pin="A7"/>
+    </net>
+    <net code="21" name="Net-(J1-PadB5)">
+      <node ref="J1" pin="B5"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="22" name="Net-(J1-PadA5)">
+      <node ref="J1" pin="A5"/>
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="23" name="/PB7_PWM">
+      <node ref="J13" pin="1"/>
+      <node ref="U1" pin="12"/>
+    </net>
+    <net code="24" name="/PE6_IO">
+      <node ref="J12" pin="1"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="25" name="/col4">
+      <node ref="U1" pin="31"/>
+      <node ref="SW3" pin="S2"/>
+      <node ref="SW4" pin="S2"/>
+      <node ref="SW2" pin="S2"/>
+    </net>
+    <net code="26" name="Net-(D15-Pad2)">
+      <node ref="SW2" pin="S1"/>
+      <node ref="D15" pin="2"/>
+    </net>
+    <net code="27" name="Net-(D14-Pad2)">
+      <node ref="SW3" pin="S1"/>
+      <node ref="D14" pin="2"/>
+    </net>
+    <net code="28" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2"/>
+      <node ref="SW4" pin="S1"/>
+    </net>
+    <net code="29" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2"/>
+      <node ref="K12" pin="2"/>
+    </net>
+    <net code="30" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2"/>
+      <node ref="K9" pin="2"/>
+    </net>
+    <net code="31" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2"/>
+      <node ref="K7" pin="2"/>
+    </net>
+    <net code="32" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2"/>
+      <node ref="K8" pin="2"/>
+    </net>
+    <net code="33" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2"/>
+      <node ref="K5" pin="2"/>
+    </net>
+    <net code="34" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2"/>
+      <node ref="K4" pin="2"/>
+    </net>
+    <net code="35" name="Net-(D2-Pad2)">
+      <node ref="K2" pin="2"/>
+      <node ref="D2" pin="2"/>
+    </net>
+    <net code="36" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="K1" pin="2"/>
+    </net>
+    <net code="37" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2"/>
+      <node ref="K6" pin="2"/>
+    </net>
+    <net code="38" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="K3" pin="2"/>
+    </net>
+    <net code="39" name="Net-(D11-Pad2)">
+      <node ref="K11" pin="2"/>
+      <node ref="D11" pin="2"/>
+    </net>
+    <net code="40" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2"/>
+      <node ref="K10" pin="2"/>
+    </net>
+    <net code="41" name="/enc1_A">
+      <node ref="SW2" pin="A"/>
+      <node ref="U1" pin="30"/>
+    </net>
+    <net code="42" name="/row0">
+      <node ref="U1" pin="41"/>
+      <node ref="D10" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D13" pin="1"/>
+    </net>
+    <net code="43" name="/row1">
+      <node ref="D8" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="U1" pin="40"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D14" pin="1"/>
+    </net>
+    <net code="44" name="/row2">
+      <node ref="D15" pin="1"/>
+      <node ref="D9" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="U1" pin="39"/>
+    </net>
+    <net code="45" name="/col0">
+      <node ref="K2" pin="1"/>
+      <node ref="K1" pin="1"/>
+      <node ref="K3" pin="1"/>
+      <node ref="U1" pin="38"/>
+    </net>
+    <net code="46" name="/col1">
+      <node ref="U1" pin="37"/>
+      <node ref="K4" pin="1"/>
+      <node ref="K5" pin="1"/>
+      <node ref="K6" pin="1"/>
+    </net>
+    <net code="47" name="/col2">
+      <node ref="K7" pin="1"/>
+      <node ref="K9" pin="1"/>
+      <node ref="U1" pin="36"/>
+      <node ref="K8" pin="1"/>
+    </net>
+    <net code="48" name="/col3">
+      <node ref="K10" pin="1"/>
+      <node ref="K12" pin="1"/>
+      <node ref="K11" pin="1"/>
+      <node ref="U1" pin="32"/>
+    </net>
+    <net code="49" name="/enc1_B">
+      <node ref="SW2" pin="B"/>
+      <node ref="U1" pin="29"/>
+    </net>
+    <net code="50" name="/enc2_A">
+      <node ref="U1" pin="28"/>
+      <node ref="SW3" pin="A"/>
+    </net>
+    <net code="51" name="/enc2_B">
+      <node ref="SW3" pin="B"/>
+      <node ref="U1" pin="27"/>
+    </net>
+    <net code="52" name="/enc3_A">
+      <node ref="U1" pin="26"/>
+      <node ref="SW4" pin="A"/>
+    </net>
+    <net code="53" name="/enc3_B">
+      <node ref="SW4" pin="B"/>
+      <node ref="U1" pin="25"/>
+    </net>
+    <net code="54" name="Net-(U1-Pad11)">
+      <node ref="U1" pin="11"/>
+    </net>
+    <net code="55" name="Net-(U1-Pad10)">
+      <node ref="U1" pin="10"/>
+    </net>
+    <net code="56" name="Net-(U1-Pad9)">
+      <node ref="U1" pin="9"/>
+    </net>
+  </nets>
+</export>
